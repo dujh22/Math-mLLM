@@ -1,0 +1,6 @@
+checkpoints
+data_images
+eval_mmmu
+evaluation_mathvista
+llava
+wandb
